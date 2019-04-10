@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">School Management System</string>
+
+    <string name="email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="teacher_login">Teacher Login</string>
+    <string name="student_login">Student Login</string>
+    <string name="valid_email">Enter Valid Email</string>
+    <string name="valid_password">Enter Valid Password</string>
+    <string name="email_not_exist">Email not exist</string>
+    <string name="admin">Admin</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+    <string name="select_login_type">Choose Login</string>
+    <string name="logout">Logout</string>
+    <string name="yes">Yes</string>
+    <string name="msgLogout">Do you want to logout ?</string>
+    <string name="please_select">Please select</string>
+    <string name="login_page">login page</string>
+    <string name="student_dashboard">Student Dashboard</string>
+    <string name="teacher_dashboard">Teacher Dashboard</string>
+    <string name="add_event">Add Event</string>
+    <string name="eventMessage">Event Message</string>
+    <string name="add_image">Add Image</string>
+    <string name="event_update_success">Event added successully</string>
+    <string name="event_update_failed">Event update failed</string>
+    <string name="events">Events</string>
+    <string name="posted_a_event">Posted an event</string>
+    <string name="upload">Upload</string>
+    <string name="add_material">Add Material</string>
+    <string name="choose_class">Choose class</string>
+    <string name="select_class">Please select class</string>
+    <string name="select_file">Select File</string>
+    <string name="file_update_success">Uploaded Successfully</string>
+    <string name="file_update_failed">Upload failed</string>
+    <string name="first_class">1st Class</string>
+    <string name="sec_class">2nd Class</string>
+    <string name="third_class">3rd Class</string>
+    <string name="four_class">4th Class</string>
+    <string name="five_class">5th Class</string>
+    <string name="six_class">6th Class</string>
+    <string name="seven_class">7th Class</string>
+    <string name="eight_class">8th Class</string>
+    <string name="nine_class">9th Class</string>
+    <string name="ten_class">10th Class</string>
+    <string name="file_desc">File Description</string>
+    <string name="enter_desc">Please enter description</string>
+    <string name="materials">Materials</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="class_not_assigned">Class not assigned</string>
+
+    <!-- TODO: remove this placeholder text -->
+
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="default_notification_channel_name">default_notification_channel_name</string>
+    <string name="notification">Notification</string>
+</resources>
